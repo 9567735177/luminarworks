@@ -1,0 +1,40 @@
+
+
+div{
+    height: 679px;
+    width: 22%;
+    background-color: rgb(247, 253, 253);
+    border: solid rgb(177, 41, 41) 3px;
+    float: left;
+}
+div img{
+    width: 50%;
+    margin-left: 70px;
+}
+
+    
+}
+#q1{
+    text-align: center;
+}
+#q2{
+    text-align: center;
+}
+#q3{
+    text-align: center;
+}
+#w1{
+    text-align: center;
+}
+#w2{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}

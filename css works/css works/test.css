@@ -1,0 +1,10 @@
+div{
+    height: 400px;
+    width: 50%;
+    background-color: chartreuse;
+    border: solid royalblue 3px;
+    margin-left: 10px;
+}
+div img{
+    margin-left: 10px;
+}

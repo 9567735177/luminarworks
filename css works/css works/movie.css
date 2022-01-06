@@ -1,0 +1,28 @@
+#parent{
+    height: 720px;
+    width: 188px;
+    background-color: rgb(29, 28, 28);
+    float: left;
+    padding: 30px;
+    border: solid rgb(179, 218, 161) 4px;
+    margin-left: 10px;
+}
+div img{
+    width: 60%;
+    padding: 20px;
+}
+#q1{
+    height: 20px;
+    width: 150px;
+    border: solid rgb(235, 229, 229) 1px;
+}
+h2{
+    text-align: center;
+}
+img{
+    height: 170px;
+    width: 500%;
+}
+body{
+    color: cornsilk;
+}

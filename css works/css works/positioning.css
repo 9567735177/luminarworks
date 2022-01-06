@@ -1,0 +1,17 @@
+.parent{
+    border: black solid 3px;
+    width: 500px;
+    height: 200px;
+    background-color: cornflowerblue;
+    position: relative;
+}
+.child{
+    position: absolute;
+    left: 100%;
+    width: 300px;
+    height: 100px;
+    background-color: darkkhaki;
+}
+body{
+    background-color: rgb(29, 31, 27);
+}

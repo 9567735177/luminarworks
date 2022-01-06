@@ -1,0 +1,161 @@
+.row{
+    width: 500px;
+    height: 500px;
+    background-color: cadetblue;
+    position: relative;
+    border: cyan solid 3px;
+}
+.col{
+    width: 100px;
+    height: 200px;
+    border: tomato solid 2px;
+}
+.col-1{
+    background-color: violet;
+    position: absolute;
+}
+.col-2{
+    background-color: yellow;
+    position: absolute;
+    left: 110px;
+}
+.col-3{
+    background-color: yellowgreen;
+    position: absolute;
+    left: 220px;
+}
+.col-4{
+    background-color: thistle;
+    position: absolute;
+    left: 330px;
+}
+body{
+    background-image: url(./contemporary-fiction-night-time-book-cover-design-template-1be47835c3058eb42211574e0c4ed8bf_screen.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

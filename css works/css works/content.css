@@ -1,0 +1,15 @@
+
+.row{
+    width: 50%;
+    height: 500px;
+    background-color: dimgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.col{
+    width: 100px;
+    height: 300px;
+    background-color: fuchsia;
+    border: solid rgb(229, 241, 119) 3px;
+}

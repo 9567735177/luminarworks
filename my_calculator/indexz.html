@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+    
+    <script src="./index.js"></script>
+    
+</head>
+<body>
+    <div class="container"> 
+        <form name="calcy">
+            <input type="text" class="display" name="display" placeholder="Result" id="result"><br>
+            <input type="button" class="buttons" value= " C " id="clear" onclick="clearBox('c')">
+            <input type="button" class="button" value="DEL" id="dis" onclick="del('DEL')">
+            <input type="button" class="buttonz" value="/" onclick="dispalyNum('/')"><br>
+
+            <input type="button" class="button" value="1" onclick="displayNum('1')">
+            <input type="button" class="button" value="2" onclick="displayNum('2')">
+            <input type="button" class="button" value="3" onclick="displayNum('3')">
+            <input type="button" class="buttonz" value="*" onclick="displayNum('*')"><br>
+
+            <input type="button" class="button" value="4" onclick="displayNum('4')">
+            <input type="button" class="button" value="5" onclick="displayNum('5')">
+            <input type="button" class="button" value="6" onclick="displayNum('6')">
+            <input type="button" class="buttonz" value="+" onclick="displayNum('+')"><br>
+
+            <input type="button" class="button" value="7" onclick="displayNum('7')">
+            <input type="button" class="button" value="8" onclick="displayNum('8')">
+            <input type="button" class="button" value="9" onclick="displayNum('9')">
+            <input type="button" class="buttonz" value="-" onclick="displayNum('-')"><br>
+
+            <input type="button" class="button" value="." onclick="displayNum('.')">
+            <input type="button" class="button" value="0" onclick="displayNum('0')">
+            <input type="button" class="buttton" value="=" onclick="evaluateExpression('=')"><br>
+
+            
+
+        </form>
+
+    </div>
+</body>
+</html>
